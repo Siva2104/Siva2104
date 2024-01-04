@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Gunasekaran</h1>
-<h3 align="center">A passionate Automation Engineer developer from India</h3>
+<h2 align="left">A passionate Automation Test Engineer with 3 Years Experience in **Manual and Automation Testing**</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva2104&label=Profile%20views&color=0e75b6&style=flat" alt="siva2104" /> </p>
 
