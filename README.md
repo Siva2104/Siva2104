@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Rest ASSURED API testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Siva2104?tab=repositories](Shiva-Gunasekaran)
+- 👨‍💻 All of my projects are available at [https://github.com/Siva2104](Shiva-Gunasekaran)
 
 - 💬 Ask me about **Selenium, Maven, TestNG, Git Repo, and so on**
 
