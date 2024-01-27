@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gshiva1999@gmail.com**
   
-- TestNG Tutorial: <Selenium + TestNG>
+- TestNG Tutorial: https://github.com/Siva2104/IntellIJ_TestNG_Selenium
 
 
 
