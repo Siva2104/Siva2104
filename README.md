@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://github.com/Siva2104](https://github.com/Siva2104/Siva2104)]👨‍💻
 
-- 💬 Ask me about ** SDLC and SDTC Concepts, Selenium, Maven, TestNG, Git**
+- 💬 Ask me about ** SDLC and SDTC Concepts, Selenium, Maven, TestNG, Git Repository**
 
 - 📫 How to reach me **[gshiva19999@gmail.com]**📫
   
