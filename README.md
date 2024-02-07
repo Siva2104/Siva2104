@@ -4,21 +4,21 @@
 
 - 🔭 I’m currently working on Banking anad Insurance Project **[Automation Testing-Selenium](https://github.com/Siva2104?tab=repositories)
   
-- 🌱 I’m currently learning **BDD Framework - Cucumber[https://github.com/Siva2104/Cucumber_selenium] and API testing, Appium and**
+- 🌱 I’m currently learning **BDD Framework - Cucumber[https://github.com/Siva2104/Cucumber_selenium] and API testing.🌱
 
-- 👯 I’m looking to collaborate on **APPIUM Automation**
+- 👯 I’m looking to collaborate on **APPIUM Automation**👯
 
-- 🤝 I’m looking for help with **Rest ASSURED API testing**
+- 🤝 I’m looking for help with **Rest ASSURED API testing**🤝
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Siva2104](https://github.com/Siva2104/Siva2104)]
+- 👨‍💻 All of my projects are available at [[https://github.com/Siva2104](https://github.com/Siva2104/Siva2104)]👨‍💻
 
 - 💬 Ask me about ** SDLC and SDTC Concepts, Selenium, Maven, TestNG, Git**
 
-- 📫 How to reach me **[gshiva19999@gmail.com]**
+- 📫 How to reach me **[gshiva19999@gmail.com]**📫
   
 - Lets Connect @ ** https://www.linkedin.com/in/shiva%20gunasekaran
 
-- ⚡** Fun fact **Good VIbes with LEarning****
+- ⚡** Fun fact **Good VIbes with LEarning****⚡**
 
 
 <h3 align="left">Connect with me:</h3>
