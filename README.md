@@ -2,15 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva2104&label=Profile%20views&color=0e75b6&style=flat" alt="siva2104" /> </p>
 
-- 🔭 I’m currently working on Banking anad Insurance Project **[Automation Testing-Selenium](https://github.com/Siva2104?tab=repositories)
+- 🔭 I’m currently working on Banking anad Insurance Project **[Selenium  JAVA + TestNG Framework](https://github.com/Siva2104?tab=repositories)
   
-- 🌱 I’m currently learning **[BDD Framework - Cucumber](https://github.com/Siva2104/Cucumber_selenium) and API testing.🌱
+- 🌱 I’m currently learning **[Cucumber-BDD Framework](https://github.com/Siva2104/Cucumber_selenium) and API testing.🌱
 
 - 👯 I’m looking to collaborate on **APPIUM Automation**👯
 
 - 🤝 I’m looking for help with **Rest ASSURED API testing**🤝
 
-- 👨‍💻 All of my projects are available at [Shiva Gunasekaran](https://github.com/Siva2104/Siva2104)👨‍💻
+- 👨‍💻 All of my projects are available at [Automation Testing](https://github.com/Siva2104/Siva2104)👨‍💻
 
 - 💬 Ask me about ** SDLC and SDTC Concepts, Selenium, Maven, TestNG, Git Repository**
 
