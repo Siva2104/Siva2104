@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva2104&label=Profile%20views&color=0e75b6&style=flat" alt="siva2104" /> </p>
 
-- 🔭 I’m currently working on Banking anad Insurance Project **[Automation Testing-Selenium](TestNG_Selenium)
+- 🔭 I’m currently working on Banking anad Insurance Project **[Automation Testing-Selenium](https://github.com/Siva2104?tab=repositories)
   
 - 🌱 I’m currently learning **API testing, Appium and BDD Framework - Cucumber**
 
