@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Banking anad Insurance Project **[Automation Testing-Selenium](https://github.com/Siva2104?tab=repositories)
   
-- 🌱 I’m currently learning **API testing, Appium and BDD Framework - Cucumber[https://github.com/Siva2104/Cucumber_selenium]**
+- 🌱 I’m currently learning **BDD Framework - Cucumber[https://github.com/Siva2104/Cucumber_selenium] and API testing, Appium and**
 
 - 👯 I’m looking to collaborate on **APPIUM Automation**
 
