@@ -1,8 +1,8 @@
 <h2 align="center">A passionate Automation Test Engineer with **3 Years Experience in **Manual and Automation Testing**</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva2104&label=Profile%20views&color=0e75b6&style=flat" alt="siva2104" /> </p>
-
-- 🔭 I’m currently working on Banking anad Insurance Project **[Selenium  JAVA + TestNG Framework](https://github.com/Siva2104?tab=repositories)
+<h4>
+- 🔭 I’m currently working on Banking anad Insurance Project [Selenium-TestNG Framework](https://github.com/Siva2104)
   
 - 🌱 I’m currently learning **[Cucumber-BDD Framework](https://github.com/Siva2104/Cucumber_selenium) and API testing.🌱
 
@@ -18,8 +18,13 @@
   
 - Lets Connect @ ** [Shiva_Gunasekaran](https://www.linkedin.com/in/shiva%20gunasekaran)
 
-- ⚡** Fun fact **Good VIbes with LEarning****⚡ [Interview Learning material](https://github.com/Siva2104/InterviewBackUp)**
+- ⚡** Fun fact **Good VIbes with LEarning****⚡ [Interview Learning material](https://github.com/Siva2104/InterviewBackUp)** </h4>
 
+  👨‍💻For [ChromeDriver ](https://chromedriver.chromium.org/downloads)
+  👨‍💻For [Selenium](https://www.selenium.dev/downloads/)
+  👨‍💻For [Maven repository](https://mvnrepository.com/)
+  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
