@@ -4,7 +4,7 @@
 <h4>
 - 🔭 I’m currently working on Banking anad Insurance Project [Selenium-TestNG Framework](https://github.com/Siva2104)
   
-- 🌱 I’m currently learning **[Cucumber-BDD Framework](https://github.com/Siva2104/Cucumber_selenium) and API testing.🌱
+- 🌱 I’m currently learning **[Cucumber-BDD Framework](https://github.com/Siva2104/Cucumber_selenium) and [Playwright](https://github.com/Siva2104/Playwright).🌱
 
 - 👯 I’m looking to collaborate on **APPIUM Automation**👯
 
